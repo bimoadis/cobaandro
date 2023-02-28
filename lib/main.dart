@@ -11,7 +11,7 @@ class myApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
           appBar: AppBar(
-            title: Text('Hello Word !'),
+            title: Text(' Selamat Datang di Aps saya!'),
           ),
           body: Center(
             child: Text('Hello World !'),
